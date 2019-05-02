@@ -4,7 +4,8 @@ Introduction aux design patterns (bonne pratiques) de la programmation j2ee
 Les design patterns sont des solutions aux problèmes récurrents; des directives sur la manière de traiter certains problèmes. Ce ne sont pas des classes, des packages ou des bibliothèques que vous pouvez connecter à votre application et attendez que la magie se produise. Ce sont plutôt des directives sur la façon de résoudre certains problèmes dans certaines situations.
      Design pattern = description / modèle permettant de résoudre un problème pouvant être utilisé dans de nombreuses situations différentes.
 Ce projet contient 2 types de design patterns : 
-                                                       - design pattern singleton 
+                                                       
+						       - design pattern singleton 
                                                        
 						       - design pattern strategy
 
