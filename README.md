@@ -5,7 +5,8 @@ Les design patterns sont des solutions aux problèmes récurrents; des directive
      Design pattern = description / modèle permettant de résoudre un problème pouvant être utilisé dans de nombreuses situations différentes.
 Ce projet contient 2 types de design patterns : 
                                                        - design pattern singleton 
-                                                       - design pattern strategy
+                                                       
+						       - design pattern strategy
 
 *Le design pattern singleton:
 L’objectif du pattern SINGLETON est de garantir qu’une classe ne possède qu’une seule instance et de fournir un point d’accès global à celle-ci. Le pattern SINGLETON est placé dans la catégorie "patterns de création".
